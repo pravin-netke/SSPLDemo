@@ -1,0 +1,14 @@
+{
+  "annotations": {
+    "changelogDate": "20240404094304"
+  },
+  "dto": "mapstruct",
+  "fields": [],
+  "jpaMetamodelFiltering": false,
+  "name": "Dashboard",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
